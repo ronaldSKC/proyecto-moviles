@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Deposito</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="crear_usuario">Crear Usuario</string>
+    <string name="guardar">Guardar</string>
+    <string name="deposito">Deposito</string>
+    <string name="datos_titular">Datos del titular</string>
+    <string name="buscar_cuenta">Buscar Cuenta</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_siguiente">Siguiente</string>
+</resources>
